@@ -1,5 +1,6 @@
 # Embedded-System-Lab-App
 Sivas Cumhuriyet Üniversitesi - Mühendislik Fakültesi - Bilgisayar Mühendisliği - Gömülü Sistemler Dersi Laboratuvar Uygulamaları
+
 Ders Koordinatörü: Doç. Dr. Ahmet Gürkan YÜKSEK
 Ders Asistanı: Arş. Gör. Ahmet Utku ELİK
 
