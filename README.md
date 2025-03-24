@@ -2,6 +2,7 @@
 Sivas Cumhuriyet Üniversitesi - Mühendislik Fakültesi - Bilgisayar Mühendisliği - Gömülü Sistemler Dersi Laboratuvar Uygulamaları
 
 Ders Koordinatörü: Doç. Dr. Ahmet Gürkan YÜKSEK
+
 Ders Asistanı: Arş. Gör. Ahmet Utku ELİK
 
 Laboratuvar uygulamalarında içerisinde ARM mimarisine sahip STM32F407VGT6 Discovery mikrodenetleyici geliştirme kartı bulunan "ARMapp-18 STM32 ARM Uygulamaları Seti" kullanılmaktadır.
