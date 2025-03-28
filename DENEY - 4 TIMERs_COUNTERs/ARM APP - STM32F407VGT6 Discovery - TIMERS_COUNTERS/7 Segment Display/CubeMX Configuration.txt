@@ -1,0 +1,17 @@
+STM32F407VGT6 - 7 Segment Display Pinout (1 Digit);
+---------------------------------------------------
+MCU		7 Segment Display
+PE0			A
+PE1			B
+PE2			C
+PE3			D
+PE4			E
+PE5			F
+PE6			G
+PE10		     DIGIT_1
+
+
+GPIO Configuration;
+---------------------------------------------------
+PE10 (DIGIT_1)			: GPIO OUTPUT, Max Output Speed : Very High
+PE0 - PE6			: GPIO OUTPUT

@@ -1,0 +1,21 @@
+Clock Configuration;
+------------------------------------------------
+HCLK				: 168MHz
+APB1 Timer			: 84MHz
+
+
+TIM6 / TIM7 Configuration;
+------------------------------------------------
+Parameter Settings;
+Prescaler (PSC)			: 8400 - 1
+Counter Mode			: Up
+Counter Period (ARR)		: 10000 - 1
+Auto-Releoad Preload		: Enable
+Trigger Event Selection		: Update Event
+
+NVIC Settings;
+TIM6 Global Interrupt		: Enable
+
+GPIO Configuration;
+------------------------------------------------
+PE0				: GPIO OUTPUT

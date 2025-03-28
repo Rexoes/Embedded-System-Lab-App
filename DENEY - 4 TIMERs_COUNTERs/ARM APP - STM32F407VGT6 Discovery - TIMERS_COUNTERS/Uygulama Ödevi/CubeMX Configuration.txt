@@ -1,0 +1,38 @@
+STM32F407VGT6 - 7 Segment Display Pinout (1 Digit);
+----------------------------------------------------------------------------
+MCU		7 Segment Display
+PE0			A
+PE1			B
+PE2			C
+PE3			D
+PE4			E
+PE5			F
+PE6			G
+PE10		     DIGIT_1
+
+
+Clock Configuration;
+----------------------------------------------------------------------------
+HCLK				: 168MHz
+APB1 Timer			: 84MHz
+
+
+
+Basic Timer TIM6, TIM7 Configuration;
+----------------------------------------------------------------------------
+Parameter Settings;
+Prescaler (PSC)			: 8400 - 1
+Counter Mode			: Up
+Counter Period (ARR)		: 5000 - 1
+Auto-Releoad Preload		: Enable
+Trigger Event Selection		: Update Event
+
+NVIC Settings;
+TIM6 Global Interrupt		: Enable
+
+
+
+GPIO Configuration;
+----------------------------------------------------------------------------
+PE10 (DIGIT_1)			: GPIO OUTPUT, Max Output Speed : Very High
+PE0 - PE6			: GPIO OUTPUT

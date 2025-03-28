@@ -1,0 +1,18 @@
+Clock Configuration;
+------------------------------------------------
+HCLK				: 168MHz
+APB1 Timer			: 84MHz
+
+TIM2 Configuration;
+------------------------------------------------
+Mode -> Clock Source		: Internal Clock
+
+Prescaler (PSC)			: 8400 - 1
+Counter Mode			: Up
+Counter Period (ARR)		: 5000 - 1
+
+NVIC -> TIM2 Global Interrupt	: Enable
+
+GPIO Configuration;
+------------------------------------------------
+PE0				: GPIO OUTPUT
